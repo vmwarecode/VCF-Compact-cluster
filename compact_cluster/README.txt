@@ -11,6 +11,7 @@ For each host to be removed
 	->ID of the host
 
 
-Usage: python compact_cluster.py <hostname> <username> <password> <cluster_id>
+Sample specification file "compact_cluster_spec.json" will be used for compacting cluster operation. So fill the required details and validate before executing the script.
+For more information on the provided sample file, please refer to API reference documentation.
 
-compact_cluster_spec.json is the input sample input specifications file.
+Usage: python compact_cluster.py <hostname> <username> <password> <cluster_id>
