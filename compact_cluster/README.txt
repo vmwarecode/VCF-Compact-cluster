@@ -1,4 +1,3 @@
-
 INTRODUCTION:
 ------------
 
@@ -12,7 +11,7 @@ REQUIREMENTS:
 
 This module requires the following modules:
 
- * Python 2.7.x
+ * Python 3
    Libraries
  	* requests
  	* sys
